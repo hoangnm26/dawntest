@@ -1,4 +1,25 @@
 {
-  "sections": {},
-  "order": []
+  "sections": {
+    "1666150299980e03f3": {
+      "type": "apps",
+      "blocks": {
+        "41a516f4-fe35-484b-905f-5e77c12209cb": {
+          "type": "shopify:\/\/apps\/vs-ali-reviews-product-reviews\/blocks\/star-rating-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+            "star_size": 18,
+            "font_size": 14,
+            "block_aligment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "41a516f4-fe35-484b-905f-5e77c12209cb"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "1666150299980e03f3"
+  ]
 }
